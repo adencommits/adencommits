@@ -70,7 +70,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="450" class="keyColor">Discord</tspan>: <tspan x="470" y="450" class="valueColor">mxyko</tspan>
 <tspan x="370" y="480" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="495">——————</tspan>
-<tspan x="370" y="510" class="keyColor">Repos</tspan>: <tspan class="valueColor">06</tspan><tspan class="valueColor"></tspan> | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">27</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
+<tspan x="370" y="510" class="keyColor">Repos</tspan>: <tspan class="valueColor">06</tspan><tspan class="valueColor"></tspan> | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">29</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
 
 </text>
 
