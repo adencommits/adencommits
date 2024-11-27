@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #CF9FFF;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="1000px" height="530px" fill="#161b22" rx="15"/>
+
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">             .:-=---. -+=-=-           </tspan>
+<tspan x="15" y="50">          .-::**+#%%%+=@@%#++.          </tspan>
+<tspan x="15" y="70">       .:-*=+*#%@@%@@@@@@@@%#.          </tspan>
+<tspan x="15" y="90">      :=+#%@@@@@@%@@%@@@@@@%%*:         </tspan>
+<tspan x="15" y="110">     :*%%@%@@%%%%@@@@@@%@@@@@%#=        </tspan>
+<tspan x="15" y="130">     -%%@@@@@@%#*####*+*#%@@@@%%-       </tspan>
+<tspan x="11" y="150">    ::+%%@@@%%#+=======++*#%@@%%#=      </tspan>
+<tspan x="15" y="170">    .-*@@@@#*+==-------===+*%%%%%=      </tspan>
+<tspan x="15" y="190">      +@@@******+----+******#@@@%=      </tspan>
+<tspan x="15" y="210">      .*@%*+====++==++=====+*%@@+       </tspan>
+<tspan x="15" y="230">        *#++**#**+==+++****++*%=.       </tspan>
+<tspan x="15" y="250">         *+=====++===+========+:.       </tspan>
+<tspan x="15" y="270">         -==--==+=--=++=---====.        </tspan>
+<tspan x="15" y="290">         .+===+++===++*++=====:.        </tspan>
+<tspan x="15" y="310">         .++**+++++++++++*+++=.         </tspan>
+<tspan x="15" y="330">          =++*++-....:++++=++:          </tspan>
+<tspan x="15" y="350">           +++*+==--==++++++-           </tspan>
+<tspan x="15" y="370">            =*+++=====+++**=.           </tspan>
+<tspan x="15" y="390">            -**+=======+*#*-.           </tspan>
+<tspan x="15" y="410">          :*+*##*++++*###***=           </tspan>
+<tspan x="15" y="430">      :-+###****##%%%%#*****##+:        </tspan>
+<tspan x="15" y="450">.-=+**######***************####***-.    </tspan>
+<tspan x="15" y="470">############**+++++++++++*######*###</tspan>
+<tspan x="15" y="490">#############*+++++===+++*######*###</tspan>
+<tspan x="15" y="510">###############+++++++++*###########</tspan>
+</text>
+
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">adencommits</tspan>
+<tspan x="370" y="45">——————</tspan>
+<tspan x="370" y="60" class="keyColor">OS</tspan>:
+<tspan x="470" y="60" class="valueColor">MacOS, Windows 11, iOS</tspan>
+<tspan x="370" y="80" class="keyColor">Uptime</tspan>:
+<tspan x="470" y="80" class="valueColor">20 years</tspan>
+<tspan x="370" y="100" class="keyColor">Host</tspan>:
+<tspan x="470" y="100" class="valueColor">York University</tspan><tspan class="commentColor"> #YORKU</tspan>
+<tspan x="370" y="120" class="keyColor">Kernel</tspan>:
+<tspan x="470" y="120" class="valueColor">Data Science</tspan><tspan class="commentColor"> </tspan>
+<tspan x="370" y="140" class="keyColor">IDE</tspan>:
+<tspan x="470" y="140" class="valueColor">Jetbrains PyCharm 17.0.10</tspan>
+<tspan x="370" y="180" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>:
+<tspan x="605" y="180" class="valueColor">Python, JavaScript, Java, SQL,</tspan>
+<tspan x="605" y="200" class="valueColor">Swift, Typescript, C, C#</tspan>
+<tspan x="370" y="220" class="keyColor">Languages.Frameworks</tspan>:
+<tspan x="605" y="220" class="valueColor">Flask, Qiskit, TensorFlow,</tspan>
+<tspan x="370" y="260" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>:
+<tspan x="605" y="260" class="valueColor">HTML, CSS, JSON, XML, Latex</tspan>
+<tspan x="605" y="240" class="valueColor">Scikit, Angular, Numpy</tspan>
+<tspan x="370" y="280" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>:
+<tspan x="605" y="280" class="valueColor">English, French</tspan>
+<tspan x="370" y="340" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan x="605" y="340" class="valueColor">Graphic Design, Coding (who knew)</tspan>
+<tspan x="370" y="320" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan x="605" y="320" class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="370" y="380" class="keyColor">Contact</tspan>:
+<tspan x="370" y="395">——————</tspan>
+<tspan x="370" y="410" class="keyColor">Email</tspan>: <tspan x="470" y="410" class="valueColor">adenah04@outlook.com</tspan>
+<tspan x="370" y="430" class="keyColor">LinkedIn</tspan>: <tspan x="470" y="430" class="valueColor">adenahmed</tspan>
+<tspan x="370" y="450" class="keyColor">Discord</tspan>: <tspan x="470" y="450" class="valueColor">mxyko</tspan>
+<tspan x="370" y="480" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="495">——————</tspan>
+<tspan x="370" y="510" class="keyColor">Repos</tspan>: <tspan class="valueColor">06</tspan><tspan class="valueColor"></tspan> | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">24</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
+
+</text>
+
+</svg>
